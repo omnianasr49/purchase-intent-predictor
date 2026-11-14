@@ -2,7 +2,7 @@
 
 Most online-store visitors leave without buying. This project predicts, from a single browsing session, whether a visitor will purchase, and tells the website what to do next: **no action, show a coupon, or open a chat**.
 
-**Live app:** [add your Streamlit link here]
+**Live app:** https://purchase-intent-predictor-ojq2b5uxxzu8x4krcfdstf.streamlit.app
 
 ![App screenshot](app_screenshot.png)
 
